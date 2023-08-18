@@ -1,8 +1,6 @@
-### Hi 👋
-
+### 👋 Hi, 
 I'm Jakob and I'm focused on [**parallel computation**](https://synergy.cs.vt.edu/pubs/papers/feng-icpe12-opencl-13-dwarfs.pdf) and [**graphics programming**](https://www.whitman.edu/Documents/Academics/Mathematics/2017/Shi.pdf), specializing in Vulkan, C++, and GLSL. My expertise extends to CUDA, OpenCL, Python and TouchDesigner for interactive visualizations. I'm dedicated to unleashing the potential of computer science through insightful data visualizations. Join me in exploring the realms of data-driven creativity and cutting-edge computational techniques. 
-
-Have a wonderful day.
+:pencil: Feel free to take a look at my repositories, to see what I'm working on.
 
 <!--
 **CorrelateVisuals/CorrelateVisuals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
