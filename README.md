@@ -1,5 +1,5 @@
 ### 👋 Hi
-I'm Jakob and I'm focused on knowledge modelling and data visualization , specializing in C++, Python, Vulkan and GLSL. My expertise extends to CUDA, OpenCL and TouchDesigner for (interactive) data-visualizations. I'm dedicated to unleashing the potential of computer science through insightful data visualizations. Join me in exploring the realms of data-driven creativity and cutting-edge computational techniques.
+I'm focused on knowledge modelling and data visualization , specializing in C++, Python, Vulkan and GLSL. My expertise extends to CUDA, OpenCL and TouchDesigner for (interactive) data-visualizations. I'm dedicated to unleashing the potential of computer science through insightful data visualizations. Join me in exploring the realms of data-driven creativity and cutting-edge computational techniques.
 
 <!--
 **CorrelateVisuals/CorrelateVisuals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
