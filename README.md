@@ -1,4 +1,4 @@
-### 👋 Hi
+<!--### 👋 Hi-->
 I'm focused on knowledge modelling and data visualization , specializing in C++, Python, Vulkan and GLSL. My expertise extends to CUDA, OpenCL and TouchDesigner for (interactive) data-visualizations. I'm dedicated to unleashing the potential of computer science through insightful data visualizations. Join me in exploring the realms of data-driven creativity and cutting-edge computational techniques.
 
 <!--
