@@ -1,17 +1,25 @@
-<!--### 👋 Hi-->
-I'm focused on knowledge modelling and data visualization , specializing in C++, Python, Vulkan and GLSL. My expertise extends to CUDA, OpenCL and TouchDesigner for (interactive) data-visualizations. I'm dedicated to unleashing the potential of computer science through insightful data visualizations. Join me in exploring the realms of data-driven creativity and cutting-edge computational techniques.
+# Correlate Visuals
 
-<!--
-**CorrelateVisuals/CorrelateVisuals** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Correlate Visuals develops high-performance visualization and simulation tools focused on GPU-accelerated computing and real-time data visualization.
 
-Here are some ideas to get you started:
+## Technical Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Core Technologies:**
+- C++ and Vulkan for cross-platform simulation engines
+- GLSL shader development for GPU computing
+- Python for data processing and visualization
+- CUDA and OpenCL for parallel computation
+
+**Specializations:**
+- Knowledge modeling and data visualization
+- Interactive real-time visualizations using TouchDesigner
+- GPU-accelerated simulation and parallel computing algorithms
+- Cross-platform graphics and compute applications
+
+## Projects
+
+Explore our repositories for tools and engines in:
+- Vulkan-based simulation engines ([GENERATIONS](https://github.com/CorrelateVisuals/GENERATIONS))
+- TouchDesigner tools and components ([TouchDesigner_Tools](https://github.com/CorrelateVisuals/TouchDesigner_Tools))
+- CUDA and OpenCL kernel collections
+- Graphics programming and shader development
