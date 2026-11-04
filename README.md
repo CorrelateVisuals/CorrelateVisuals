@@ -45,6 +45,6 @@ Correlate Visuals develops high-performance simulation and visualization tools. 
 
 Vulpen is a Vulkan engine for real-time visuals and GPU compute, where programs are graphs of nodes written in C++ and GLSL. The engine places every Vulkan barrier from the graph's connections, swaps in code changes while the project runs, and can replay any session from its command log.
 
-Linux and Windows · Mozilla Public License 2.0 · [github.com/CorrelateVisuals/Vulpen](https://github.com/CorrelateVisuals/Vulpen)
+Linux and Windows · Mozilla Public License 2.0 · [github.com/CorrelateVisuals/Vulpen-GPU](https://github.com/CorrelateVisuals/Vulpen-GPU)
 
 The other repositories here hold TouchDesigner components, CUDA and OpenCL kernel collections, and knowledge-modelling projects.
